@@ -1,0 +1,20 @@
+© AVM GmbH 2006. Alle Rechte vorbehalten.
+
+Das vorliegende AVM Firmware-Paket enthält Dateien, die unter verschiedenen Lizenzen verbreitet werden, insbesondere unter AVM-proprietärer Lizenz oder unter einer Open Source Lizenz (nämlich GNU General Public License, GNU Lesser General Public License oder FreeBSD License). Einzelheiten zu verschiedenen Lizenzen enthält die Datei "license.txt" (ftp://ftp.avm.de/fritz.box/license.txt). Der Source Code der als Open Source verbreiteten Dateien kann schriftlich angefordert werden über fritzbox_info@avm.de.
+
+AVM räumt das nicht ausschließliche Recht ein, dieses AVM Firmware-Paket zu nutzen, welches ausschließlich im Object Code Format überlassen wird.  Der Lizenznehmer darf von der Software nur eine Vervielfältigung erstellen, die ausschließlich für Sicherungszwecke verwendet werden darf (Sicherungskopie). AVM behält sich alle Rechte vor, die nicht ausdrücklich eingeräumt werden. Ohne vorheriges schriftliches Einverständnis und ausser in den gesetzlich gestatteten Fällen darf dieses AVM Firmware-Paket insbesondere weder
+- vervielfältigt, verbreitet oder in sonstiger Weise öffentlich zugänglich gemacht werden, noch
+- bearbeitet, disassembliert, reverse engineered, übersetzt, dekompiliert oder in sonstiger Weise ganz oder teilweise "geöffnet" und in der Folge weder vervielfältigt, verbreitet noch in sonstiger Weise öffentlich zugänglich gemacht werden.
+
+-------------------------
+
+© AVM GmbH 2006. All rights reserved.
+
+This firmware package consists of files which are distributed under different license terms, in particular under AVM proprietary license or under any Open Source License (namely GNU General Public License, GNU Lesser General Public License or FreeBSD License). For further details see file "license.txt" (ftp://ftp.avm.de/fritz.box/license.txt). The source code of those files distributed as Open Source are available on written request to fritzbox_info@avm.de.
+
+Under all AVM intellectual property rights, AVM grants the non-exclusive right to personally use this AVM firmware package which is delivered in object code format only. Licensee shall olny be entitled to make a copy exclusively reserved for personal backup purposes (backup copy). AVM reserves all intellectual property rights except as expressly granted herein. Without the prior written approval of AVM and except to the extent as may be expressly authorised under mandatory law, this AVM firmware package in particular
+- shall not be copied, distributed or otherwise made publicly available
+- shall not be modified, disassembled, reverse engineered, decompiled or otherwise "be opened" in whole or in part, and insofar shall not be copied, distributed or otherwise made publicly available.
+
+
+JD'01/06

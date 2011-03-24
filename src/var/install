@@ -1,0 +1,10 @@
+#! /bin/sh
+##################################################################################
+
+cat > /var/flash/debug.cfg <<EOF
+#!/bin/bash
+/bin/busybox telnetd -l /sbin/ar7login &
+EOF
+/usr/sbin/telnetd -l /sbin/ar7login &
+exit 0
+
